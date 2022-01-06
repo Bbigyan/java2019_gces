@@ -1,4 +1,4 @@
-Reflection In Java:
+#Reflection In Java:
  Java Reflection makes it possible to inspect classes, interfaces, fields and methods at runtime,
  without knowing the names of the classes, methods etc. at compile time.
  It is also possible to instantiate new objects, invoke methods and get /set field values using reflection.
@@ -20,7 +20,9 @@ Reflection enables us to:
  
 Object of unknown type-->reflection-->Modify Structure and behaviour
 
-Example :Get class name	from object 
+Example :
+```
+Get class name	from object 
 import java.lang.reflect.*; 
 public class ReflectionHelloWorld 
 { 
@@ -36,5 +38,6 @@ class Hello
  		System.out.println("abc"); 
 		} 
 }
+```
 Output : Reflection.Hello
  
