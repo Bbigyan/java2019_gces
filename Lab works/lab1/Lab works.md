@@ -1,4 +1,4 @@
-## Due Date : 12/16/2021 Submitted date: 12/29/2021
+## Due Date : 12/16/2021 
 
 # [](https://github.com/sumantiwari723/sumantiwari-java-2019-batch/blob/main/Lab/Lab%201/Lab%20Works.md#write-a-program-to-demonstrate-all-three-types-of-constructors-in-java)[](https://github.com/Pramodgrg/Java/blob/main/Lab/Lab%2001/Lab%20works.md#write-a-program-to-demonstrate-all-three-types-of-constructors-in-java)Write a program to demonstrate all three types of constructors in java
 
