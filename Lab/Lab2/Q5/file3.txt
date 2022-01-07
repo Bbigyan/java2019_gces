@@ -1,0 +1,6 @@
+This is first line of file1.
+This is second line of file1.
+This is third line of file1.
+This is first line of file2.
+This is second line of file2.
+This is third line of file2.

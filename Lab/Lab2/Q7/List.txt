@@ -1,0 +1,15 @@
+-d command.txt
+264682751_1044849476312772_6870340513997053373_n.jpg
+blender.lnk
+desktop.ini
+Eclipse IDE for Java Developers - 2021-06.lnk
+GSAutoClicker.exe
+Internet Download Manager.lnk
+Micro & BLB_Poush End, 2077.xlsx
+photoshop.lnk
+report.html
+stream.xlsx
+Telegram.lnk
+TunesKit Screen Recorder.lnk
+ui.py
+~$roject.docx
